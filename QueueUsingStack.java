@@ -1,3 +1,5 @@
+// Implention of QUEUE using Stack
+
 import java.util.Stack;
 
 class MyQueueLL {
