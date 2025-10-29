@@ -1,3 +1,5 @@
+// Stack implementation using Array
+
 public class Q4StackarrayImplementation {
     public static class Stack {
         private int[] arr = new int[4];
