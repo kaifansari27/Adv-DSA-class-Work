@@ -1,3 +1,5 @@
+//  we are converting prefix to Infix in Stack.....
+
 import java.util.Stack;
 
 public class PrefixToInfix {
