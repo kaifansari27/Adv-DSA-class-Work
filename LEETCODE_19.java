@@ -1,4 +1,4 @@
-// reverse of the LL
+// reverse of the the LinkedList.....
 
 import java.lang.classfile.components.ClassPrinter.ListNode;
 
