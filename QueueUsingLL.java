@@ -1,4 +1,4 @@
-// Implention of QUEUE using Stack LL
+// Implention of QUEUE using Stack Linked List
 public class QueueUsingLL {
 
     // Node class for linked list
