@@ -1,3 +1,5 @@
+// Finding Next Greater Element in Arrays 
+
 public class NextGreaterElement {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n1 = nums1.length;
