@@ -1,4 +1,4 @@
-// Rain Trapping Water or you can you say Finding Maximun area.....
+// Rain Trapping Water or you can you say Finding Maximun area 
 
 class TrappingRainWater {
     public int trap(int[] height) {
