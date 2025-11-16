@@ -1,3 +1,5 @@
+// implementation of Stack using Linkedlist...
+
 public class StackUsingLL {
 
     // Node class for linked list
